@@ -255,7 +255,7 @@
         </main>
 
     <footer>
-        <p>&copy; 2024 Futebol Info. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Futebol Info. Todos os direitos reservados. RENAN PANI.</p>
     </footer>
 </body>
 </html>
